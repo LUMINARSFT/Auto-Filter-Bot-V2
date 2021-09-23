@@ -3,15 +3,15 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+ඔබ කැමති නම් මෙය ස්වයං පෙරහන බොට් එකක් ලෙස හැඳින්විය හැක: ඩී
 
-This is Version 2 of Auto Filter Bot
+මෙය ස්වයං පෙරහන බොට් එකේ 2 වන වෙළුමයි
 
-Bot gives button link to files in connected channels on query !
+විමසීමේදී සම්බන්ධිත නාලිකා වල ලිපිගොනු වලට බොට් බොත්තම් සම්බන්ධකය ලබා දෙයි!
 
-No need to add filters for your files or movies from now on!
+මෙතැන් සිට ඔබේ ලිපිගොනු හෝ චිත්‍රපට සඳහා පෙරහන් එකතු කිරීම අවශ්‍ය නොවේ!
 
-For more click <i>help</i></b>"""
+වැඩි විස්තර සඳහා ක්ලික් කරන්න <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
